@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site Dream Trip foi criado para uma empresa de viagens fictícia. Você pode acessar clicando [neste link](https://dream-trip.vercel.app/)
+O site Dream Trip foi criado para uma empresa de viagens fictícia. Você pode acessar clicando [neste link](https://dream-trip-three.vercel.app/)
 
 ## 🔖 Layout
 
